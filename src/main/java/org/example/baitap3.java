@@ -51,6 +51,5 @@ public class baitap3 {
 
         //Đánh giá học sinh
         System.out.println("Học lực: " + hocLuc(dtb));
-        System.out.println("hello");
     }
 }
